@@ -85,8 +85,8 @@ ots into the /images folder and update the links below)![Pgadminsales4]
 	•	Business decision-making
 	•	Data storytelling
 
-🙌 About the Author
+## 👤 Author
+**Kolawole Olajide**  
+💼 [GitHub Profile](https://github.com/Kolawoleolajide)
+🔗 [LinkedIn](www.linkedin.com/in/kolawole-olajide)  
 
-Rib Rob — Data Analyst
-📌 LinkedIn: Add link
-📌 Portfolio: Add link if you have one# Supermarket-Analysis
